@@ -47,17 +47,17 @@ redirect_from:
 
 </div>
 
-# 🔥 News
+# News
 
 <!-- - _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-- *Sep 2025*: 🎉 Our paper **GraDeT-HTR** is accepted at **EMNLP 2025** System Demonstrations! Check out the [paper](https://arxiv.org/abs/2509.18081) and [code](https://github.com/mahmudulyeamim/GraDeT-HTR).
+- *Sep 2025*: Our paper **GraDeT-HTR** is accepted at **EMNLP 2025** System Demonstrations! Check out the [paper](https://arxiv.org/abs/2509.18081) and [code](https://github.com/mahmudulyeamim/GraDeT-HTR).
 
-- *Jun 2025*: 🚀 We’ve released our new work **GraDeT-HTR**, now freely available for public use!  Visit our [site](https://cognistorm.ai/hcr).
+- *Jun 2025*: We’ve released our new work **GraDeT-HTR**, now freely available for public use!  Visit our [site](https://cognistorm.ai/hcr).
 
 
-# 📝 Publications
+# Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,7 +102,7 @@ redirect_from:
 - _2023 Mar_: 54th out of 158 teams in the ICPC Asia Dhaka Regional Onsite Contest
 - _2023 Feb_: 32nd out of 1477 teamsn in the ICPC Asia Dhaka Regional Site Online Preliminary Contest -->
 
-# 🎩 Educations
+# Educations
 
 - *2022 – 2026* (expected)  
   **B.Sc. in Computer Science & Engineering**, *University of Dhaka*
@@ -116,14 +116,14 @@ redirect_from:
 
 - _2019.05 - 2020.02_, [Lorem](https://github.com/), China. -->
 
-# 🧠 Research Experience
+# Research Experience
 
 - *Jan 2024 – Present*  
     **Undergraduate Research Assistant**  
     Cognitive Agents and Interaction Lab (CAIL), *University of Dhaka*  
     Working under the supervision of [Dr. Md. Mosaddek Khan](https://mmkhansajeeb.com/)
 
-# 🎓 Teaching Experience
+# Teaching Experience
 
 - *Jan 2022 – Jun 2023*  
   **Physics Instructor**  
@@ -157,7 +157,7 @@ redirect_from:
 - *Oct 2022 – Dec 2022*, **[Cannon Fight](https://github.com/mahmudulyeamim/Cannon-Fight)**  
   Built a **2D projectile-based shooting game** in **C/C++** using **SDL2**, featuring both **single-player** and **multiplayer** modes. -->
 
-# 🧩 Projects
+# Projects
 
 - *Oct 2024 – Jan 2025*, **[Flash: Fastest-Way-to-Learn](https://github.com/saged-sama/Flash---Fastest-Way-to-Learn)**  
   Built an end-to-end **video summarization system** using **multimodal deep learning**.  
