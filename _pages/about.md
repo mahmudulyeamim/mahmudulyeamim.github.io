@@ -136,7 +136,28 @@ redirect_from:
 - _2023 Mar_: **54th** out of 158 teams in the **ICPC Asia Dhaka Regional** Onsite Contest
 - _2023 Feb_: **32nd** out of 1477 teams in the **ICPC Asia Dhaka Regional Preliminary** Online Contest -->
 
-# 🛠️ Projects
+<!-- # Projects
+
+- *Oct 2024 – Jan 2025*, **[Flash: Fastest-Way-to-Learn](https://github.com/saged-sama/Flash---Fastest-Way-to-Learn)**  
+  Built an end-to-end **video summarization system** using **multimodal deep learning**.  
+  Developed a fully functional **course-selling platform** with **Spring Boot**, **Next.js**, and **PyTorch**.
+
+- *Apr 2024*, **[ConvoCorner](https://github.com/mahmudulyeamim/ConvoCorner)**  
+  Designed a **real-time messaging app** with text and image support using **WebSockets**.  
+  Implemented the **TCP/IP protocol** from scratch to ensure reliable data transmission.
+
+- *Sep 2023 – Nov 2023*, **[KodeShell](https://github.com/mahmudulyeamim/KodeShell)**  
+  Created an **Android app** for aggregating **contest schedules** and **user statistics** across competitive programming platforms.  
+  Added **community features** such as posts, user search, and messaging.
+
+- *Feb 2023 – May 2023*, **[SmartAcademicManager](https://github.com/mahmudulyeamim/SmartAcademicManager)**  
+  Developed a **desktop application** for managing academic resources, schedules, tasks, and course attendance.  
+  Designed a **modern JavaFX interface** for streamlined academic management.
+
+- *Oct 2022 – Dec 2022*, **[Cannon Fight](https://github.com/mahmudulyeamim/Cannon-Fight)**  
+  Built a **2D projectile-based shooting game** in **C/C++** using **SDL2**, featuring both **single-player** and **multiplayer** modes. -->
+
+# 🧩 Projects
 
 - *Oct 2024 – Jan 2025*, **[Flash: Fastest-Way-to-Learn](https://github.com/saged-sama/Flash---Fastest-Way-to-Learn)**  
   Built an end-to-end **video summarization system** using **multimodal deep learning**.  
