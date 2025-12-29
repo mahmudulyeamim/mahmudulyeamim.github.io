@@ -125,7 +125,7 @@ redirect_from:
 
 # Teaching Experience
 
-- *Jan 2022 – Jun 2023*  
+- *Jan 2022 – Dec 2023*  
   **Physics Instructor**  
   [Udvash-উদ্ভাস](https://udvash.com/HomePage), *Dhaka, Bangladesh*  
   Taught Physics to high school students (Grades 9–12)
